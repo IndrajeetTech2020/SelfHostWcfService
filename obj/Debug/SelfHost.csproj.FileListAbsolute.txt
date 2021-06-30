@@ -1,0 +1,7 @@
+D:\Solsynch\StartUpProj\SelfHost\SelfHost\bin\Debug\SelfHost.exe.config
+D:\Solsynch\StartUpProj\SelfHost\SelfHost\bin\Debug\SelfHost.exe
+D:\Solsynch\StartUpProj\SelfHost\SelfHost\bin\Debug\SelfHost.pdb
+D:\Solsynch\StartUpProj\SelfHost\SelfHost\obj\Debug\SelfHost.csprojAssemblyReference.cache
+D:\Solsynch\StartUpProj\SelfHost\SelfHost\obj\Debug\SelfHost.csproj.CoreCompileInputs.cache
+D:\Solsynch\StartUpProj\SelfHost\SelfHost\obj\Debug\SelfHost.exe
+D:\Solsynch\StartUpProj\SelfHost\SelfHost\obj\Debug\SelfHost.pdb
